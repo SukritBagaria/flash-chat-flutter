@@ -20,6 +20,7 @@ We’re going to build a modern messaging app where users can sign up and log in
 - Learn about Streams and how they work.
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+- Using timestamp to keep track of messages. 
 
 
 
